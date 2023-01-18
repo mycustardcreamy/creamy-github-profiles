@@ -11,7 +11,7 @@ Welcome to My Creamy Github Profiles! This is a website that helps you search an
 To use My Creamy Github Profiles, simply visit the website and enter a Github username into the search bar. The website will display the user's profile, including their repositories, followers, and following. You can also save and organize your favorite profiles by creating an account. :pencil2:
 
 ## Demo 📝
-You can check out a live demo of the website [here](https://mycustardcreamy.github.io/creamy-github-profiles)
+You can check out a live demo of the website [here](https://mycustardcreamy.github.io./creamy-github-profiles)
 
 ![creamygithubprofilesscreenshot](https://user-images.githubusercontent.com/120729872/213103850-5ca708f4-8334-44c3-a448-6fc5760a4813.png)
 
